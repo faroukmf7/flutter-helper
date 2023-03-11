@@ -6,7 +6,7 @@ import 'package:kstu/pages/layer1/Userpage.dart';
 import 'package:kstu/pages/layer1/homepage.dart';
 import 'package:kstu/pages/layer1/savespage.dart';
 import 'package:kstu/pages/layer1/searchpage.dart';
-import 'package:kstu/widgets/colors.dart';
+
 import 'controllers/mastercontroller.dart';
 import 'pages/quizaspect/quizhome.dart';
 
